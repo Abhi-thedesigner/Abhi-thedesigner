@@ -3,10 +3,10 @@
 ### Product Designer (UI/UX) · Framer Developer · AI Automation Builder
 
 <p>
-  🌐 <a href="YOUR_PORTFOLIO_LINK" target="_blank">Portfolio</a> ·
-  💼 <a href="https://www.linkedin.com/in/abhishek-p-25b541432/" target="_blank">LinkedIn</a> ·
+  🌐 <a href="YOUR_PORTFOLIO_LINK">Portfolio</a> ·
+  💼 <a href="https://www.linkedin.com/in/abhishek-p-25b541432/">LinkedIn</a> ·
   📧 <a href="mailto:YOUR_EMAIL">Email</a> ·
-  🐦 <a href="YOUR_X_LINK" target="_blank">X / Twitter</a>
+  🐦 <a href="YOUR_X_LINK">X / Twitter</a>
 </p>
 
 I design digital products that combine **user-centered design, modern visual experiences, and business-driven problem solving**.
