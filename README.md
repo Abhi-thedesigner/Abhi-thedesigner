@@ -19,107 +19,61 @@ From **SaaS platforms and business dashboards to mobile apps, websites, and AI-p
 
 I bridge the gap between **design, no-code development, and AI automation**.
 
-- 🎨 Design user-centered digital products and interfaces
-- 🧩 Build scalable design systems and product experiences
-- 🌐 Develop websites using modern no-code platforms
-- 🤖 Build AI workflows, AI agents, and business automation
-- ⚡ Help startups and businesses move from idea to execution faster
+- 🎨 Design digital products and user experiences
+- 🧩 Build scalable design systems
+- 🌐 Develop websites with modern no-code tools
+- 🤖 Build AI workflows and automation
+- ⚡ Help businesses move from idea to execution
 
 ---
 
-## 🛠️ Skillset & Tools
+## 🛠️ Skills & Tools
 
-### 🎨 Product Design
+**🎨 Design**  
+Product Design · UX/UI · Design Systems · Interaction Design
 
-- Product Design
-- UX Design
-- UI Design
-- Design Systems
-- Interaction Design
+**🔍 Research**  
+User Research · Information Architecture · User Flows · Wireframing · Prototyping
 
-### 🔍 Research & Validation
+**✏️ Tools**  
+Figma · FigJam · Framer
 
-- User Research
-- Information Architecture
-- User Flows
-- Wireframing
-- Prototyping
-- A/B Testing
+**🌐 No-Code**  
+Webflow · Wix Studio · Shopify · WordPress
 
-### ✏️ Design Tools
-
-- Figma
-- FigJam
-
-### 🌐 No-Code Development
-
-- Framer
-- Webflow
-- Wix
-- Wix Studio
-- Shopify
-- WordPress
-
-### 🤖 AI Automation
-
-- n8n
-- AI Agents
-- AI Workflows
-- Workflow Automation
+**🤖 AI & Automation**  
+n8n · AI Agents · AI Workflows · Workflow Automation
 
 ---
 
-## 📱 Products I Design
+## 📱 What I Design
 
-I work on:
-
-- SaaS Platforms
-- Business Dashboards
-- Mobile Applications
-- Websites
-- Landing Pages
-- AI-Powered Products
-- Internal Tools
-- Digital Platforms
+SaaS Platforms · Dashboards · Mobile Apps · Websites · Landing Pages · AI Products · Internal Tools
 
 ---
 
 ## 🌉 Design × Build × Automate
 
-What sets me apart is my ability to connect:
+I combine:
 
 **Product Design → No-Code Development → AI Automation**
 
-I can help transform an idea from an early concept into a designed product, working prototype, and automated system.
+Transforming ideas into **designed products, working prototypes, and automated systems**.
 
-> A Product Designer who also builds digital experiences and AI-powered workflows — bridging the gap between design, technology, and intelligent automation.
+> A Product Designer bridging design, technology, and intelligent automation.
 
 ---
 
 ## 📚 Beyond Design
 
-I'm passionate about exploring and sharing:
+I explore and share:
 
-- Product Design insights
-- UX/UI resources
-- Design tools
-- No-code workflows
-- AI automation
-- n8n workflows
-- SaaS and digital product design
-- Practical systems for designers, founders, and creators
+**Product Design · UX/UI · Design Tools · No-Code · AI Automation · n8n · SaaS Design · Practical Workflows**
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm open to:
-
-- Freelance Product Design projects
-- Collaborations
-- Startup opportunities
-- Partnerships
-- Digital product projects
-- AI automation projects
+Open to **freelance projects, collaborations, startup opportunities, partnerships, digital products, and AI automation projects**.
 
 Feel free to connect or send me a message.
