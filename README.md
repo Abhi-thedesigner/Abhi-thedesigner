@@ -2,6 +2,13 @@
 
 ### Product Designer (UI/UX) · Framer Developer · AI Automation Builder
 
+<p>
+  🌐 <a href="YOUR_PORTFOLIO_LINK">Portfolio</a> ·
+  💼 <a href="YOUR_LINKEDIN_LINK">LinkedIn</a> ·
+  📧 <a href="mailto:YOUR_EMAIL">Email</a> ·
+  🐦 <a href="YOUR_X_LINK">X / Twitter</a>
+</p>
+
 I design digital products that combine **user-centered design, modern visual experiences, and business-driven problem solving**.
 
 From **SaaS platforms and business dashboards to mobile apps, websites, and AI-powered products**, I create intuitive and scalable experiences designed to solve real-world problems.
@@ -116,11 +123,3 @@ I'm open to:
 - AI automation projects
 
 Feel free to connect or send me a message.
-
-<!-- Add your links here -->
-
-- 🌐 Portfolio: Your Portfolio Link
-- 💼 LinkedIn: Your LinkedIn Link
-- 📧 Email: Your Professional Email
-- 🐦 X / Twitter: Your Link
-
