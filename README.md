@@ -4,7 +4,7 @@
 
 <p>
   🌐 <a href="YOUR_PORTFOLIO_LINK" target="_blank">Portfolio</a> ·
-  💼 <a href="www.linkedin.com/in/abhishek-p-25b541432/" target="_blank">LinkedIn</a> ·
+  💼 <a href="https://www.linkedin.com/in/abhishek-p-25b541432/" target="_blank">LinkedIn</a> ·
   📧 <a href="mailto:YOUR_EMAIL">Email</a> ·
   🐦 <a href="YOUR_X_LINK" target="_blank">X / Twitter</a>
 </p>
